@@ -1,0 +1,20 @@
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+.vercel/
+
+# Local credentials / private keys
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+*.secret

@@ -1,0 +1,85 @@
+{
+  "sources": [
+    {
+      "sourceFile": "S.Chand Physics.pdf",
+      "category": "CHAPTERS",
+      "subject": "Physics",
+      "displayName": "S. Chand Class 10 Physics",
+      "ranges": [
+        { "subject": "Physics", "chapterId": "Science-Physics-0", "chapterName": "Light: Reflection and Refraction", "startPage": 171, "endPage": 272 },
+        { "subject": "Physics", "chapterId": "Science-Physics-1", "chapterName": "The Human Eye and the Colourful World", "startPage": 273, "endPage": 307 },
+        { "subject": "Physics", "chapterId": "Science-Physics-2", "chapterName": "Electricity", "startPage": 10, "endPage": 76 },
+        { "subject": "Physics", "chapterId": "Science-Physics-3", "chapterName": "Magnetic Effects of Electric Current", "startPage": 77, "endPage": 125 },
+        { "subject": "Physics", "chapterId": "Science-Physics-extra-sources-energy", "chapterName": "Sources of Energy · Supplementary", "startPage": 126, "endPage": 170 },
+        { "subject": "Physics", "chapterId": "Science-Physics-extra-practice", "chapterName": "Additional Physics practice", "startPage": 308, "endPage": 369 }
+      ]
+    },
+    {
+      "sourceFile": "S.CHAND X CHEMISTRY.pdf",
+      "localSourcePath": "output/pdf/S.CHAND X CHEMISTRY.optimized.pdf",
+      "category": "CHAPTERS",
+      "subject": "Chemistry",
+      "displayName": "S. Chand Class 10 Chemistry",
+      "ranges": [
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-0", "chapterName": "Chemical Reactions and Equations", "startPage": 10, "endPage": 60 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-1", "chapterName": "Acids, Bases and Salts", "startPage": 61, "endPage": 110 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-2", "chapterName": "Metals and Non-metals", "startPage": 111, "endPage": 206 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-3", "chapterName": "Carbon and its Compounds", "startPage": 207, "endPage": 276 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-4", "chapterName": "Periodic Classification of Elements", "startPage": 277, "endPage": 318 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-extra-practice", "chapterName": "Additional Chemistry practice", "startPage": 319, "endPage": 369 }
+      ]
+    },
+    {
+      "sourceFile": "SCIENCE Most Important Questions (Prashant Kirad).pdf",
+      "category": "IMPORTANT QUESTIONS (PYQ)",
+      "subject": "Physics",
+      "displayName": "Science Most Important Questions · Prashant Kirad",
+      "ranges": [
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-0", "chapterName": "Chemical Reactions and Equations", "startPage": 2, "endPage": 2 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-0", "chapterName": "Chemical Reactions and Equations", "startPage": 15, "endPage": 16 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-1", "chapterName": "Acids, Bases and Salts", "startPage": 3, "endPage": 3 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-1", "chapterName": "Acids, Bases and Salts", "startPage": 17, "endPage": 18 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-2", "chapterName": "Metals and Non-metals", "startPage": 4, "endPage": 4 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-2", "chapterName": "Metals and Non-metals", "startPage": 19, "endPage": 19 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-3", "chapterName": "Carbon and its Compounds", "startPage": 5, "endPage": 5 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-3", "chapterName": "Carbon and its Compounds", "startPage": 20, "endPage": 20 },
+        { "subject": "Physics", "chapterId": "Science-Physics-0", "chapterName": "Light: Reflection and Refraction", "startPage": 10, "endPage": 10 },
+        { "subject": "Physics", "chapterId": "Science-Physics-0", "chapterName": "Light: Reflection and Refraction", "startPage": 29, "endPage": 32 },
+        { "subject": "Physics", "chapterId": "Science-Physics-1", "chapterName": "The Human Eye and the Colourful World", "startPage": 11, "endPage": 11 },
+        { "subject": "Physics", "chapterId": "Science-Physics-1", "chapterName": "The Human Eye and the Colourful World", "startPage": 33, "endPage": 33 },
+        { "subject": "Physics", "chapterId": "Science-Physics-2", "chapterName": "Electricity", "startPage": 12, "endPage": 12 },
+        { "subject": "Physics", "chapterId": "Science-Physics-2", "chapterName": "Electricity", "startPage": 34, "endPage": 35 },
+        { "subject": "Physics", "chapterId": "Science-Physics-3", "chapterName": "Magnetic Effects of Electric Current", "startPage": 13, "endPage": 13 },
+        { "subject": "Physics", "chapterId": "Science-Physics-3", "chapterName": "Magnetic Effects of Electric Current", "startPage": 36, "endPage": 38 }
+      ]
+    },
+    {
+      "sourceFile": "Ncert class 10 science exemplar.pdf",
+      "category": "NCERT EXEMPLAR",
+      "subject": "Physics",
+      "displayName": "NCERT Class 10 Science Exemplar",
+      "ranges": [
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-0", "chapterName": "Chemical Reactions and Equations", "startPage": 14, "endPage": 21 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-0", "chapterName": "Chemical Reactions and Equations", "startPage": 162, "endPage": 167 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-1", "chapterName": "Acids, Bases and Salts", "startPage": 22, "endPage": 30 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-1", "chapterName": "Acids, Bases and Salts", "startPage": 168, "endPage": 171 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-2", "chapterName": "Metals and Non-metals", "startPage": 31, "endPage": 40 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-2", "chapterName": "Metals and Non-metals", "startPage": 172, "endPage": 175 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-3", "chapterName": "Carbon and its Compounds", "startPage": 41, "endPage": 50 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-3", "chapterName": "Carbon and its Compounds", "startPage": 176, "endPage": 181 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-4", "chapterName": "Periodic Classification of Elements", "startPage": 51, "endPage": 60 },
+        { "subject": "Chemistry", "chapterId": "Science-Chemistry-4", "chapterName": "Periodic Classification of Elements", "startPage": 182, "endPage": 185 },
+        { "subject": "Physics", "chapterId": "Science-Physics-0", "chapterName": "Light: Reflection and Refraction", "startPage": 92, "endPage": 98 },
+        { "subject": "Physics", "chapterId": "Science-Physics-0", "chapterName": "Light: Reflection and Refraction", "startPage": 203, "endPage": 205 },
+        { "subject": "Physics", "chapterId": "Science-Physics-1", "chapterName": "The Human Eye and the Colourful World", "startPage": 99, "endPage": 102 },
+        { "subject": "Physics", "chapterId": "Science-Physics-1", "chapterName": "The Human Eye and the Colourful World", "startPage": 206, "endPage": 208 },
+        { "subject": "Physics", "chapterId": "Science-Physics-2", "chapterName": "Electricity", "startPage": 103, "endPage": 109 },
+        { "subject": "Physics", "chapterId": "Science-Physics-2", "chapterName": "Electricity", "startPage": 209, "endPage": 211 },
+        { "subject": "Physics", "chapterId": "Science-Physics-3", "chapterName": "Magnetic Effects of Electric Current", "startPage": 110, "endPage": 114 },
+        { "subject": "Physics", "chapterId": "Science-Physics-3", "chapterName": "Magnetic Effects of Electric Current", "startPage": 212, "endPage": 215 },
+        { "subject": "Physics", "chapterId": "Science-Physics-extra-sources-energy", "chapterName": "Sources of Energy · Supplementary", "startPage": 115, "endPage": 118 },
+        { "subject": "Physics", "chapterId": "Science-Physics-extra-sources-energy", "chapterName": "Sources of Energy · Supplementary", "startPage": 216, "endPage": 217 }
+      ]
+    }
+  ]
+}

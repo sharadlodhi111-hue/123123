@@ -1,0 +1,10 @@
+{
+  "name": "Murlidhar Classes · CBSE Class 10 Science Planner",
+  "short_name": "Murlidhar Classes",
+  "description": "Your personalised study plan for the CBSE Class 10 board examination.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#30205f",
+  "theme_color": "#30205f",
+  "icons": [{ "src": "/murlidhar-classes.jpg", "sizes": "128x128", "type": "image/jpeg", "purpose": "any maskable" }]
+}
